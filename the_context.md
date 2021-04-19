@@ -8,3 +8,5 @@ Rick's Proposal
 
 -------------
 Link Reference: https://whimsical.com/the-context-SBHPVjw2xWNHUVArSRqGXX
+
+Test on modifying my field directly on the template. 
