@@ -1,4 +1,5 @@
-# README
+# log-in system has been established by date of 0508  
+# Under a condition to repair one inconvenience on the function of sign-in membership. 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
